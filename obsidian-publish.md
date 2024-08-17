@@ -4,7 +4,7 @@
 2. Get the code snippet required to make PostHog work, I've attached their [docs](https://posthog.com/docs/getting-started/install) below, you can get the prefilled snippet [here](https://us.posthog.com/settings/project#snippet)
 ![image](https://github.com/user-attachments/assets/9e745373-08a1-43c4-933b-628a9f343f4a)
 3. Dump that shit right into the `publish.js` file, make sure to remove the `<script>` `</script>` tags, it's already implied by the whole `.js` file thing.
-4. Upload to site and check if it works.
+4. Publish and check if it reports activity in PostHog (I do not operate a publish site or posthog so I have no method of direct confirmation)
 
 ## Community Theme
 Thanks [Obsidan Docs](https://help.obsidian.md/Obsidian+Publish/Customize+your+site)
